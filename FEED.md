@@ -9,3 +9,4 @@ Includes posts scheduled by other conversations when seen in Metricool.
 | 2026-11-08 | EN | Carousel | Your leads don't say no. They just stop hearing from you (3 follow-up rules) | yes | feed/2026-11-08-en-carousel-followup/ |
 | 2026-11-09 | FR | Post | Ton patient n'achète pas une opération. Il achète d'être accompagné (avant / pendant / après) | yes | feed/2026-11-09-fr-post-accompagnement/ |
 | 2026-11-10 | FR | Reel (other conversation) | Des vues. Des likes. Zéro rendez-vous confirmé. | yes | Metricool |
+| 2026-11-11 | FR | Reel (other conversation) | Ton patient écrit quand il est prêt. Pas quand ton bureau est ouvert. | yes | Metricool |

@@ -8,3 +8,4 @@
 | 2026-11-07 | EN | MTA proof | The turning point wasn't the ads. → It was changing who we target. (CTA DM “STRATEGY”) | — | stories/2026-11-07-en-mta-proof-target.png |
 | 2026-11-08 | FR | Quick tip | Note la source de chaque lead. → Sinon, tu paies la pub au hasard. (CTA « STRATEGY ») | — | stories/2026-11-08-fr-tip-source-lead.png |
 | 2026-11-09 | EN | News | Top 5%: a Riyadh hospital in Newsweek's medical tourism ranking → The Gulf now competes for patients. (no CTA) | GlobeNewswire (KFSH Riyadh, Newsweek 2027) | stories/2026-11-09-en-news-riyadh-top5.png |
+| 2026-11-10 | FR | Offer reminder | La formation en ligne arrive fin décembre. → Structurer. Qualifier. Vendre. (CTA « STRATEGY ») | — | stories/2026-11-10-fr-offre-formation.png |
