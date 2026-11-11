@@ -1,0 +1,18 @@
+@import "core.css";
+/* COBALT — electric blue with grid, white geometric sans, yellow accent */
+body { background: #2335F5; color: #FFFFFF; font-family: "Jost", sans-serif;
+  background-image: linear-gradient(rgba(255,255,255,.08) 2px, transparent 2px), linear-gradient(90deg, rgba(255,255,255,.08) 2px, transparent 2px);
+  background-size: 108px 108px; }
+.deco.d1 { left: 88px; top: 150px; width: 26px; height: 26px; background: #FFE14D; border-radius: 50%; }
+.deco.d2 { left: 132px; top: 150px; width: 26px; height: 26px; border: 3px solid #FFE14D; border-radius: 50%; }
+.label { color: #FFE14D; font-weight: 600; }
+.main, .myth, .take { font-weight: 700; letter-spacing: -.02em; }
+.main.num { font-weight: 800; }
+.myth { text-decoration-color: #FFE14D; }
+.sub { font-weight: 400; color: #DCE0FF; }
+.take em { font-style: normal; color: #FFE14D; }
+.cta { background: #FFE14D; color: #2335F5; }
+.footer { color: #C4CAFF; }
+.wordmark { font-weight: 700; }
+.wordmark i { color: #FFE14D; font-style: normal; }
+.points li b { color: #FFE14D; }

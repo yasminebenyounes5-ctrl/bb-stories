@@ -1,0 +1,21 @@
+@import "core.css";
+/* CARD — lilac background, white card, violet accent, Poppins */
+body { background: #E6E1FA; color: #1C1340; font-family: "Poppins", sans-serif; }
+.deco.d1 { left: -200px; top: -160px; width: 640px; height: 640px; background: #CFC4F7; border-radius: 50%; }
+.deco.d2 { right: -220px; bottom: -120px; width: 560px; height: 560px; background: #D9D1F9; border-radius: 50%; }
+.wrap { left: 64px; right: 64px; top: 220px; bottom: 270px; background: #FFFFFF; border-radius: 56px; padding: 80px 72px;
+        box-shadow: 0 30px 80px rgba(28,19,64,.12); }
+.label { align-self: flex-start; background: #EEE8FF; color: #6A3DF0; padding: 14px 26px; border-radius: 999px; font-size: 24px; letter-spacing: .14em; }
+.main, .myth, .take { font-weight: 700; letter-spacing: -.03em; }
+.main.num { font-size: 210px; color: #6A3DF0; }
+.main.text { font-size: 96px; }
+.myth { text-decoration-color: #6A3DF0; font-weight: 500; font-size: 80px; }
+.sub { font-weight: 500; font-size: 48px; color: #4A4170; }
+.take { font-size: 66px; }
+.take em { font-style: normal; color: #6A3DF0; }
+.cta { background: #6A3DF0; color: #FFFFFF; font-size: 40px; }
+.footer { color: #7E77A0; font-size: 22px; }
+.wordmark { font-size: 32px; }
+.wordmark i { color: #6A3DF0; font-style: normal; }
+.points li { font-size: 46px; }
+.points li b { color: #6A3DF0; }

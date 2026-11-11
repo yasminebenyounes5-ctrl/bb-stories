@@ -1,0 +1,17 @@
+@import "core.css";
+/* POP — full hot pink, white heavy type, black accents */
+body { background: #FF348B; color: #FFFFFF; font-family: "League Spartan", sans-serif; }
+.deco.d1 { right: -260px; top: -220px; width: 760px; height: 760px; border: 6px solid rgba(255,255,255,.35); border-radius: 50%; }
+.deco.d2 { left: -180px; bottom: 120px; width: 380px; height: 380px; background: rgba(0,0,0,.08); border-radius: 50%; }
+.label { color: #1A0A12; }
+.main, .myth, .take { font-weight: 800; letter-spacing: -.03em; }
+.main.num { font-size: 310px; }
+.myth { text-decoration-color: #1A0A12; opacity: .8; }
+.sub { font-family: "Poppins"; font-weight: 500; font-size: 50px; }
+.take { font-size: 76px; }
+.take em { font-style: normal; background: #FFFFFF; color: #FF348B; padding: 0 14px; }
+.cta { background: #1A0A12; color: #FFFFFF; }
+.footer { color: rgba(255,255,255,.85); font-family: "Poppins"; }
+.wordmark { font-weight: 800; color: #FFFFFF; }
+.wordmark i { color: #1A0A12; font-style: normal; }
+.points li b { color: #1A0A12; }

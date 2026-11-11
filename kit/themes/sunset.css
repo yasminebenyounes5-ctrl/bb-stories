@@ -1,0 +1,15 @@
+@import "core.css";
+/* SUNSET — orange-to-peach gradient, dark brown type, Lora italic accent */
+body { background: linear-gradient(165deg, #FF6A3D 0%, #FF9F5A 45%, #FFD59A 100%); color: #2B0F05; font-family: "Poppins", sans-serif; }
+.deco.d1 { right: 120px; top: 120px; width: 200px; height: 200px; background: #FFE6B8; border-radius: 50%; opacity: .9; }
+.label { font-weight: 700; color: #2B0F05; }
+.main, .myth { font-family: "League Spartan", sans-serif; font-weight: 800; letter-spacing: -.03em; }
+.myth { text-decoration-color: #2B0F05; }
+.sub { font-weight: 500; font-size: 52px; }
+.take { font-family: "Lora", serif; font-style: italic; font-weight: 500; font-size: 80px; }
+.take em { font-weight: 700; color: #FFFFFF; }
+.cta { background: #2B0F05; color: #FFE6B8; }
+.footer { color: #5A2A12; }
+.wordmark { font-family: "League Spartan"; font-weight: 800; }
+.wordmark i { color: #FFFFFF; font-style: normal; }
+.points li b { color: #FFFFFF; }

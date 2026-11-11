@@ -1,0 +1,19 @@
+@import "core.css";
+/* EDITORIAL — magazine page: paper white, Bodoni serif, terracotta accent, thin rules */
+body { background: #F3EFE6; color: #1A1A1A; font-family: "Jost", sans-serif; }
+.deco.d1 { left: 88px; right: 88px; top: 180px; height: 2px; background: #1A1A1A; }
+.deco.d2 { left: 88px; right: 88px; bottom: 240px; height: 2px; background: #1A1A1A; }
+.deco.d3 { right: 88px; top: 140px; font: 500 24px "Jost"; letter-spacing: .25em; }
+.deco.d3::after { content: "BUSINESS BEGIN · NOTES"; }
+.label { color: #C2462B; font-family: "Jost"; font-weight: 600; }
+.main, .myth, .take { font-family: "Bodoni Moda", serif; font-weight: 500; letter-spacing: -.02em; }
+.main.num { font-size: 300px; font-weight: 700; font-variation-settings: "opsz" 11; }
+.myth { text-decoration-color: #C2462B; }
+.sub { font-weight: 400; font-size: 50px; border-left: 4px solid #C2462B; padding-left: 28px; }
+.take { font-style: italic; font-weight: 400; }
+.take em { color: #C2462B; }
+.cta { border-radius: 0; background: transparent; border: 3px solid #C2462B; color: #C2462B; font-family: "Jost"; font-weight: 600; letter-spacing: .06em; font-size: 40px; }
+.footer { color: #6B6459; }
+.wordmark { font-family: "Bodoni Moda"; font-weight: 600; }
+.wordmark i { color: #C2462B; font-style: normal; }
+.points li b { color: #C2462B; font-family: "Bodoni Moda"; }

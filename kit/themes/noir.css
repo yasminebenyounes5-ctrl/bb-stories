@@ -1,0 +1,17 @@
+@import "core.css";
+/* NOIR — black, lime accent, heavy condensed sans */
+body { background: #0E0E0E; color: #F5F2EA; font-family: "Jost", sans-serif; }
+.deco.d1 { left: 88px; top: 150px; width: 120px; height: 10px; background: #D4FF3F; }
+.deco.d2 { right: -200px; bottom: -200px; width: 620px; height: 620px; border: 3px solid #2A2A2A; border-radius: 50%; }
+.label { color: #D4FF3F; }
+.main, .myth, .take { font-family: "League Spartan", sans-serif; font-weight: 800; text-transform: uppercase; letter-spacing: -.02em; }
+.main.text { font-size: 104px; line-height: .98; }
+.myth { text-decoration-color: #D4FF3F; font-size: 84px; }
+.sub { color: #B9B4AA; font-weight: 500; }
+.take { font-size: 70px; line-height: 1; }
+.take em { font-style: normal; color: #D4FF3F; }
+.cta { background: #D4FF3F; color: #0E0E0E; }
+.footer { color: #8C877F; }
+.wordmark { font-family: "League Spartan"; font-weight: 700; color: #F5F2EA; }
+.wordmark i { color: #D4FF3F; font-style: normal; }
+.points li b { color: #D4FF3F; }

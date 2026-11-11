@@ -1,0 +1,17 @@
+@import "core.css";
+/* FOREST — deep green, cream text, gold accent, Lora serif */
+body { background: #0F3B2E; color: #F4EAD5; font-family: "Jost", sans-serif; }
+.deco.d1 { right: -320px; top: 120px; width: 760px; height: 760px; background: #14503E; border-radius: 50%; }
+.deco.d2 { left: 88px; bottom: 200px; width: 60px; height: 60px; border: 3px solid #E9B949; transform: rotate(45deg); }
+.label { color: #E9B949; font-weight: 600; }
+.main, .myth, .take { font-family: "Lora", serif; font-weight: 600; letter-spacing: -.01em; }
+.main.text { font-size: 104px; }
+.myth { text-decoration-color: #E9B949; font-weight: 400; }
+.sub { font-weight: 400; color: #CFC4AC; }
+.take { font-style: italic; font-weight: 500; }
+.take em { color: #E9B949; }
+.cta { background: #E9B949; color: #0F3B2E; font-family: "Jost"; font-weight: 700; }
+.footer { color: #A9B8A9; }
+.wordmark { font-family: "Lora"; font-weight: 700; }
+.wordmark i { color: #E9B949; font-style: normal; }
+.points li b { color: #E9B949; font-family: "Lora"; }

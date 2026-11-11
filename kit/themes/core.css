@@ -1,0 +1,38 @@
+/* Shared skeleton for all story themes. Each theme file imports this, then sets colours, fonts and decoration.
+   Every story uses the SAME HTML (see kit/themes/README.md); only the stylesheet changes. */
+@font-face { font-family: "Fraunces"; src: url("../fonts/Fraunces.ttf"); font-weight: 100 900; }
+@font-face { font-family: "Fraunces"; src: url("../fonts/Fraunces-Italic.ttf"); font-weight: 100 900; font-style: italic; }
+@font-face { font-family: "DM Sans"; src: url("../fonts/DMSans.ttf"); font-weight: 100 1000; }
+@font-face { font-family: "Bodoni Moda"; src: url("../fonts/BodoniModa.ttf"); font-weight: 400 900; }
+@font-face { font-family: "Jost"; src: url("../fonts/Jost.ttf"); font-weight: 100 900; }
+@font-face { font-family: "League Spartan"; src: url("../fonts/LeagueSpartan.ttf"); font-weight: 100 900; }
+@font-face { font-family: "Lora"; src: url("../fonts/Lora-Variable.ttf"); font-weight: 400 700; }
+@font-face { font-family: "Lora"; src: url("../fonts/Lora-Italic-Variable.ttf"); font-weight: 400 700; font-style: italic; }
+@font-face { font-family: "Poppins"; src: url("../fonts/Poppins-Regular.ttf"); font-weight: 400; }
+@font-face { font-family: "Poppins"; src: url("../fonts/Poppins-Medium.ttf"); font-weight: 500; }
+@font-face { font-family: "Poppins"; src: url("../fonts/Poppins-Bold.ttf"); font-weight: 700; }
+@font-face { font-family: "Poppins"; src: url("../fonts/Poppins-Italic.ttf"); font-weight: 400; font-style: italic; }
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 1080px; height: 1920px; }
+body { position: relative; overflow: hidden; -webkit-font-smoothing: antialiased; }
+.deco { position: absolute; pointer-events: none; }
+
+/* Instagram safe zone */
+.wrap { position: absolute; left: 88px; right: 88px; top: 236px; bottom: 290px;
+        display: flex; flex-direction: column; justify-content: center; }
+
+.label { font-size: 27px; font-weight: 700; letter-spacing: .2em; text-transform: uppercase; }
+.main  { margin-top: 50px; }
+.main.num  { font-size: 290px; line-height: .9; }
+.main.text { font-size: 110px; line-height: 1.02; }
+.myth { margin-top: 50px; font-size: 92px; line-height: 1.05; text-decoration: line-through; text-decoration-thickness: 7px; opacity: .6; }
+.myth + .main { margin-top: 70px; }
+.sub   { font-size: 56px; line-height: 1.15; margin-top: 30px; font-weight: 600; }
+.take  { font-size: 78px; line-height: 1.05; margin-top: 90px; }
+.cta   { margin-top: 90px; align-self: flex-start; border-radius: 999px; padding: 30px 52px; font-size: 44px; font-weight: 800; }
+.footer { margin-top: 90px; display: flex; justify-content: space-between; align-items: flex-end; font-size: 23px; font-weight: 500; }
+.wordmark { font-size: 34px; font-weight: 700; letter-spacing: -.01em; }
+.points { list-style: none; margin-top: 50px; display: flex; flex-direction: column; gap: 26px; }
+.points li { font-size: 50px; line-height: 1.15; display: flex; gap: 26px; }
+.points li b { flex: none; }
