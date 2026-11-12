@@ -10,3 +10,4 @@
 | 2026-11-09 | EN | News | Top 5%: a Riyadh hospital in Newsweek's medical tourism ranking → The Gulf now competes for patients. (no CTA) | GlobeNewswire (KFSH Riyadh, Newsweek 2027) | stories/2026-11-09-en-news-riyadh-top5.png | classic |
 | 2026-11-10 | FR | Offer reminder | La formation en ligne arrive fin décembre. → Structurer. Qualifier. Vendre. (CTA « STRATEGY ») | — | stories/2026-11-10-fr-offre-formation.png | classic |
 | 2026-11-11 | EN | News | +84.6%: medical tourism visits to Hainan's Lecheng zone (Jan–Sep 2026) → Patients get more choice every year. (no CTA) | Xinhua / People's Daily (Nov 6) | stories/2026-11-11-en-news-hainan-visits.png | classic |
+| 2026-11-12 | FR | Case study | video — Clinique Emrah Cinik (Turquie) : 34 canaux, réponses lentes → une seule boîte + IA 24/7 dans leur langue → 26 s de 1re réponse moyenne (no CTA) | respond.io customer story | stories/2026-11-12-fr-casestudy-emrah-cinik.mp4 | noir |
