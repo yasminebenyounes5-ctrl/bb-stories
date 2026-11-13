@@ -11,3 +11,4 @@
 | 2026-11-10 | FR | Offer reminder | La formation en ligne arrive fin décembre. → Structurer. Qualifier. Vendre. (CTA « STRATEGY ») | — | stories/2026-11-10-fr-offre-formation.png | classic |
 | 2026-11-11 | EN | News | +84.6%: medical tourism visits to Hainan's Lecheng zone (Jan–Sep 2026) → Patients get more choice every year. (no CTA) | Xinhua / People's Daily (Nov 6) | stories/2026-11-11-en-news-hainan-visits.png | classic |
 | 2026-11-12 | FR | Case study | video — Clinique Emrah Cinik (Turquie) : 34 canaux, réponses lentes → une seule boîte + IA 24/7 dans leur langue → 26 s de 1re réponse moyenne (no CTA) | respond.io customer story | stories/2026-11-12-fr-casestudy-emrah-cinik.mp4 | noir |
+| 2026-11-13 | EN | News | 4,488 foreign patients treated in Kazakhstan in 2025 → Now it sells the whole patient journey (state packages). (no CTA) | The Astana Times (Nov 13) | stories/2026-11-13-en-news-kazakhstan-packages.png | editorial |

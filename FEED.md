@@ -11,3 +11,5 @@ Includes posts scheduled by other conversations when seen in Metricool.
 | 2026-11-10 | FR | Reel (other conversation) | Des vues. Des likes. Zéro rendez-vous confirmé. | yes | Metricool |
 | 2026-11-11 | FR | Reel (other conversation) | Ton patient écrit quand il est prêt. Pas quand ton bureau est ouvert. | yes | Metricool |
 | 2026-11-12 | FR | Carousel (other conversation) | « Je ne vois pas concrètement c'est quoi le résultat final. » | yes | Metricool |
+| 2026-11-13 | EN | Post | If everyone handles the lead, nobody does (owner / next step / stage) | yes | feed/2026-11-13-en-post-lead-owner/ |
+| 2026-11-14 | EN | Carousel (other conversation) | Your patient acquisition system might be missing a layer (Attract. Qualify. Convert.) | yes | Metricool |
