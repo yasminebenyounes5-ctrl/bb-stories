@@ -14,3 +14,4 @@ Includes posts scheduled by other conversations when seen in Metricool.
 | 2026-11-13 | EN | Post | If everyone handles the lead, nobody does (owner / next step / stage) | yes | feed/2026-11-13-en-post-lead-owner/ |
 | 2026-11-14 | EN | Carousel (other conversation) | Your patient acquisition system might be missing a layer (Attract. Qualify. Convert.) | yes | Metricool |
 | 2026-11-15 | EN | Reel (other conversation) | I ran ads, spent money, and got zero results. (turning point: change the target) | yes | Metricool |
+| 2026-11-16 | FR | Reel (other conversation) | Tes salariés ne sont pas le problème. Le problème, c'est qu'ils attendent tes ordres. | yes | Metricool |
