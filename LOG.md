@@ -15,3 +15,4 @@
 | 2026-11-14 | FR | Mistake to avoid | video — Demander le dossier médical au 1er message → Il ne te connaît pas encore. D’abord la confiance. Ensuite, les documents. (CTA « STRATEGY ») | — | stories/2026-11-14-fr-mistake-dossier-medical.mp4 | pop |
 | 2026-11-15 | EN | Myth vs reality | They didn't book because of the price. → They didn't trust you enough yet. (CTA DM “STRATEGY”) | — | stories/2026-11-15-en-myth-price-trust.png | forest |
 | 2026-11-16 | FR | News | Un opérateur international prospecte les cliniques tunisiennes. → Les partenaires arrivent. Ton agence est prête ? (no CTA) | Managers.tn (Nov 10, Travelwings / FIPA-Tunisia) | stories/2026-11-16-fr-news-tunisie-operateur.png | cobalt |
+| 2026-11-17 | EN | Quick tip | video — A booked call isn’t a confirmed call. → Send a reminder the day before, in their language. → Confirmed calls start with you. (CTA DM “STRATEGY”) | — | stories/2026-11-17-en-tip-confirm-reminder.mp4 | card |
