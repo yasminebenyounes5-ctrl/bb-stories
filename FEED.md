@@ -18,3 +18,4 @@ Includes posts scheduled by other conversations when seen in Metricool.
 | 2026-11-17 | EN | Carousel | Not every lead needs a quote. Ask these 4 questions first (change/why now, travel date, compared, who decides) | yes | feed/2026-11-17-en-carousel-qualify-questions/ |
 | 2026-11-18 | FR | Carousel (other conversation) | L'IA répond, qualifie et relance tes leads. Mais il y a une ligne rouge. | yes | Metricool |
 | 2026-11-19 | EN | Reel (other conversation) | “I'm not an expert, so I don't know if this will work.” (clear system, monthly call, guides) | yes | Metricool |
+| 2026-11-20 | FR | Reel (other conversation) | Pourquoi un patient choisirait ton agence plutôt qu'une autre ? (atout différenciant) | yes | Metricool |
