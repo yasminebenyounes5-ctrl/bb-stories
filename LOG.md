@@ -21,3 +21,4 @@
 | 2026-11-20 | FR | Key question | Qui relance ton lead quand il ne répond plus ? → Sans relance, pas de rendez-vous. (CTA « STRATEGY ») | — | stories/2026-11-20-fr-question-relance-lead.png | editorial |
 | 2026-11-21 | EN | MTA proof | video — We built an agency from zero. → Before selling a method, we tested it. → Med Travel Assist is our proof. (CTA DM “STRATEGY”) | — | stories/2026-11-21-en-mta-proof-tested.mp4 | pop |
 | 2026-11-22 | FR | Myth vs reality | « Une agence marketing va remplir mon agenda. » → Elle apporte des leads. Pas des rendez-vous. Ça, c'est ton process de vente. (CTA « STRATEGY ») | — | stories/2026-11-22-fr-myth-agence-marketing.png | forest |
+| 2026-11-23 | EN | Mistake to avoid | One sales script for every market. → A Gulf patient and a Francophone patient don't ask the same questions. (CTA DM “STRATEGY”) | — | stories/2026-11-23-en-mistake-one-script.png | cobalt |
