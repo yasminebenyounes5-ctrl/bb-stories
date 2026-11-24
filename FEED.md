@@ -22,3 +22,5 @@ Includes posts scheduled by other conversations when seen in Metricool.
 | 2026-11-21 | EN | Reel (other conversation) | Your patient pipeline lives in a spreadsheet? Here's what you lose. | yes | Metricool |
 | 2026-11-22 | FR | Carousel | Ta première réponse décide si le lead reste (prénom + sa langue, une seule question, prochaine étape claire, raison de faire confiance) | yes | feed/2026-11-22-fr-carousel-premier-message/ |
 | 2026-11-23 | FR | Reel (other conversation) | Leads oubliés × valeur d'un patient. Fais le calcul. | yes | Metricool |
+| 2026-11-24 | EN | Carousel | Before you sign with a clinic, ask these 4 questions (response speed, language on site, if something goes wrong, aftercare) | yes | feed/2026-11-24-en-carousel-clinic-partner/ |
+| 2026-11-25 | FR | Carousel (other conversation) | Tu ne manques pas de leads, tu les perds avant le rendez-vous. | yes | Metricool |
