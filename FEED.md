@@ -24,3 +24,4 @@ Includes posts scheduled by other conversations when seen in Metricool.
 | 2026-11-23 | FR | Reel (other conversation) | Leads oubliés × valeur d'un patient. Fais le calcul. | yes | Metricool |
 | 2026-11-24 | EN | Carousel | Before you sign with a clinic, ask these 4 questions (response speed, language on site, if something goes wrong, aftercare) | yes | feed/2026-11-24-en-carousel-clinic-partner/ |
 | 2026-11-25 | FR | Carousel (other conversation) | Tu ne manques pas de leads, tu les perds avant le rendez-vous. | yes | Metricool |
+| 2026-11-26 | EN | Reel (other conversation) | 3 agencies and clinics, done for you. Dozens of patients every month. | yes | Metricool |
