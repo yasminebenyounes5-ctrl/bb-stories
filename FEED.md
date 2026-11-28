@@ -27,3 +27,4 @@ Includes posts scheduled by other conversations when seen in Metricool.
 | 2026-11-26 | EN | Reel (other conversation) | 3 agencies and clinics, done for you. Dozens of patients every month. | yes | Metricool |
 | 2026-11-27 | EN | Reel (other conversation) | GIVEAWAY: win free access to our online training on medical tourism and AI (ends Dec 4) | no | Metricool |
 | 2026-11-28 | FR | Carousel (other conversation) | L'IA répond, qualifie et relance tes leads. Mais il y a une ligne rouge. | yes | Metricool |
+| 2026-11-29 | FR | Reel (other conversation) | Tes salariés ne sont pas le problème. Le problème, c'est qu'ils attendent tes ordres. | yes | Metricool |
